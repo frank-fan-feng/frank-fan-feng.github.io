@@ -2,12 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Weiyi Zhao # the website title (if blank, full name will be used instead)
-first_name: Weiyi
+title: Fan Feng # the website title (if blank, full name will be used instead)
+first_name: Fan
 middle_name:
-last_name: Zhao
+last_name: Feng
 contact_note: >
-  Email: weiyi_zhao@zuel.edu.cn
+  Email: fanfeng@buaa.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Assistant Professor focusing on empirical asset pricing, digital finance, and tokenomics.
 footer_text:
