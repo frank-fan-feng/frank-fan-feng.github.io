@@ -1,45 +1,43 @@
 {
   "basics": {
-    "name": "Weiyi Zhao",
+    "name": "Fan Feng",
     "title": "Assistant Professor",
-    "email": "weiyi_zhao@zuel.edu.cn",
-    "summary": "Assistant Professor at School of Finance, Zhongnan University of Economics and Law focusing on empirical asset pricing, digital finance, and tokenomics, and AI in finance.",
+    "email": "fanfeng@buaa.edu.cn",
+    "summary": "Assistant Professor at School of Economics and Management, Beihang University focusing on capital market, corporate finance, sustainability, and AI.",
     "location": {
-      "city": "Wuhan",
-      "region": "Hubei",
+      "city": "Beijing",
+      "region": "Beijing",
       "countryCode": "CN"
     }
   },
   "work": [
     {
-      "name": "School of Finance, Zhongnan University of Economics and Law",
+      "name": "School of Economics and Management, Beihang University",
       "position": "Assistant Professor",
-      "startDate": "2024-07",
-      "summary": "Researches empirical asset pricing, fintech, tokenomics, and AI in finance.",
-      "highlights": ["Master Supervisor beginning 2025-09"]
+      "startDate": "2021-01"
     },
     {
-      "name": "Cornell University Digital Economics and Financial Technology (DEFT) Lab",
-      "position": "External Member",
-      "startDate": "2023-05",
-      "summary": "Collaborates with DEFT Lab faculty on projects in digital finance and blockchain economics."
+      "name": "School of Accounting, Shanghai Lixin University of Accounting and Finance",
+      "position": "Assistant Professor",
+      "startDate": "2019-04",
+      "endDate": "2021-01"
     }
   ],
   "education": [
     {
-      "institution": "Tsinghua University",
-      "location": "Beijing, China",
-      "studyType": "Ph.D. in Economics",
-      "startDate": "2018-09",
-      "endDate": "2024-06",
-      "summary": "Institute of Economics, School of Social Sciences."
+      "institution": "Nanyang Technological University",
+      "location": "Singapore",
+      "studyType": "Ph.D. in Accounting",
+      "startDate": "2014-07",
+      "endDate": "2019-04",
+      "summary": "Nanyang Business School."
     },
     {
-      "institution": "Wuhan University",
-      "location": "Wuhan, China",
+      "institution": "Beihang University",
+      "location": "Beijing, China",
       "studyType": "Bachelor of Economics in Financial Engineering",
-      "startDate": "2014-09",
-      "endDate": "2018-06",
+      "startDate": "2008-09",
+      "endDate": "2012-06",
       "summary": "School of Economics and Management."
     }
   ],
