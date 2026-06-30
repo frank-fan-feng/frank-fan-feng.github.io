@@ -73,14 +73,14 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%77%65%69%79%69_%7A%68%61%6F@%7A%75%65%6C.%65%64%75.%63%6E", "_blank");
+          window.open("mailto:%66%61%6E%66%65%6E%67@%62%75%61%61.%65%64%75.%63%6E", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=N5HhtJYAAAAJ&hl=en", "_blank");
+          window.open("https://scholar.google.com/citations?user=3XhPhrQAAAAJ&hl=en", "_blank");
         },
       },{
         id: 'social-ssrn_id',
