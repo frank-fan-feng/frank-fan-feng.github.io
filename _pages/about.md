@@ -31,4 +31,4 @@ My research lies at the intersection of empirical accounting, corporate finance,
 
 I received my B.Econ. in Financial Engineering and a second bachelor’s degree in Applied Mathematics from Beihang University, an M.A. in Communication Studies from Nanyang Technological University, and a Ph.D. in Accounting from Nanyang Technological University.
 
-If you are interested in collaborations on empirical accounting and corporate finance research, particularly projects related to sustainability issues and AI in accounting and finance, please feel free to reach out.
+If you are interested in collaborations on empirical accounting and corporate finance research, particularly projects related to sustainability issues and AI applications in accounting and finance, please feel free to reach out.
