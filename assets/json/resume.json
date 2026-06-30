@@ -16,9 +16,7 @@
       "position": "Assistant Professor",
       "startDate": "2024-07",
       "summary": "Researches empirical asset pricing, fintech, tokenomics, and AI in finance.",
-      "highlights": [
-        "Master Supervisor beginning 2025-09"
-      ]
+      "highlights": ["Master Supervisor beginning 2025-09"]
     },
     {
       "name": "Cornell University Digital Economics and Financial Technology (DEFT) Lab",
@@ -125,22 +123,13 @@
     {
       "name": "Research Interests",
       "level": "",
-      "keywords": [
-        "Empirical Asset Pricing",
-        "FinTech",
-        "Tokenomics",
-        "AI and Asset Pricing"
-      ]
+      "keywords": ["Empirical Asset Pricing", "FinTech", "Tokenomics", "AI and Asset Pricing"]
     }
   ],
   "interests": [
     {
       "name": "FinTech Research Community",
-      "keywords": [
-        "Empirical Asset Pricing",
-        "Digital Platforms",
-        "Blockchain Ecosystems"
-      ]
+      "keywords": ["Empirical Asset Pricing", "Digital Platforms", "Blockchain Ecosystems"]
     }
   ],
   "conference presentations": [
@@ -161,9 +150,7 @@
     },
     {
       "year": "2023",
-      "events": [
-        { "name": "18th Conference on Asia-Pacific Financial Markets", "details": "Seoul, South Korea" }
-      ]
+      "events": [{ "name": "18th Conference on Asia-Pacific Financial Markets", "details": "Seoul, South Korea" }]
     },
     {
       "year": "2022",
@@ -187,9 +174,7 @@
     },
     {
       "year": "2020",
-      "events": [
-        { "name": "Tsinghua University China Economic Seminar", "details": "Beijing, China" }
-      ]
+      "events": [{ "name": "Tsinghua University China Economic Seminar", "details": "Beijing, China" }]
     }
   ],
   "research grants": [

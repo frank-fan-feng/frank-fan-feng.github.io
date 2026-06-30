@@ -11,6 +11,7 @@ related_publications: false
 Starting Fall 2025, this course pairs hands-on Python labs with discussions on market microstructure, portfolio construction, and responsible AI. Students implement factor discovery pipelines, interpret Shapley values for asset selection, and evaluate how tokenization reshapes liquidity provision.
 
 Modules cover:
+
 - Representation learning for asset pricing signals
 - Tokenized asset valuation and decentralized market data
 - Deployment considerations for buy-side research stacks

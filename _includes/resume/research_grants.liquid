@@ -22,7 +22,8 @@
               {% if grant.role == 'PI' %}Principal Investigator.{% elsif grant.role == 'Co-I' %}Participant.{% else %}{{ grant.role }}.{% endif %}
             {% endif %}
             {% if grant.agency %}
-              {{ grant.agency }}{% if grant.grant %} Grant {{ grant.grant }}{% endif %}.
+              {{ grant.agency -}}
+              {%- if grant.grant %} Grant {{ grant.grant }}{% endif %}.
             {% endif %}
           </p>
         </div>

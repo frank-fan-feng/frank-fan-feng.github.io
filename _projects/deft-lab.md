@@ -11,6 +11,7 @@ related_publications: false
 Working as an external member of Cornell DEFT Lab, I co-lead projects on marketplace lending, asymmetric cross-side network effects, and crypto market segmentation. The collaboration blends Cornell’s empirical infrastructure with field partnerships in Asia to test theoretical predictions.
 
 Focus areas:
+
 - Marketplace lending platform design and pricing efficiency
 - Token issuance policy and cross-border regulatory sandboxes
 - Machine-learning diagnostics for systemic risk on digital platforms

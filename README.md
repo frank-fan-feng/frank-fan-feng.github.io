@@ -298,7 +298,7 @@ This template has a built-in light/dark mode. It detects the user preferred colo
 
 ### CV
 
-The CV page is generated from the JSON Resume file in [assets/json/resume.json](assets/json/resume.json). Update that file (and the list of sections under `jsonresume` in [_config.yml](_config.yml)) to change the CV content.
+The CV page is generated from the JSON Resume file in [assets/json/resume.json](assets/json/resume.json). Update that file (and the list of sections under `jsonresume` in [\_config.yml](_config.yml)) to change the CV content.
 
 [![CV Preview](readme_preview/cv.png)](https://alshedivat.github.io/al-folio/cv/)
 

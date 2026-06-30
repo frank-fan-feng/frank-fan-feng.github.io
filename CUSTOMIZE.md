@@ -82,7 +82,7 @@ All changes made to this file are only visible after you rebuild the website. Th
 
 ## Modifying the CV information
 
-The CV page is generated from the JSON Resume file in [assets/json/resume.json](assets/json/resume.json). Update that file (and the list of sections under `jsonresume` in [_config.yml](_config.yml)) to change the CV content.
+The CV page is generated from the JSON Resume file in [assets/json/resume.json](assets/json/resume.json). Update that file (and the list of sections under `jsonresume` in [\_config.yml](_config.yml)) to change the CV content.
 
 ## Modifying the user and repository information
 
