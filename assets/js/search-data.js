@@ -42,7 +42,7 @@ ninja.data = [{
           title: 'Beijing Municipal Social Science Foundation Grant on generative AI and supply chain resilience...',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/2024-12-01-nsfc-grant/";
+              window.location.href = "/news/2025-12-03-nsfc-grant/";
             },},{id: "projects-cornell-deft-lab-collaborations",
           title: 'Cornell DEFT Lab Collaborations',
           description: "Joint research with Cornell&#39;s Digital Economy and Financial Technology Lab on cross-border financing and marketplace design.",
