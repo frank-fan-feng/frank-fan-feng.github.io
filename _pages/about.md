@@ -1,15 +1,15 @@
 ---
 layout: about
-title: Weiyi Zhao
+title: Fan Feng
 permalink: /
-subtitle: Empirical Asset Pricing · FinTech · Tokenomics · AI and Finance
+subtitle: Empirical Accounting and Corporate Finance · Capital Markets and Financial Intermediaries · Sustainability and Climate Finance · AI Applications in Accounting and Finance
 
 profile:
   align: right
-  image: weiyi_zhao.jpg
+  image: fan_feng.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Assistant Professor</p>
+    <p>Lecturer</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,8 +25,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am Weiyi Zhao (赵魏一), an Assistant Professor at the School of Finance, Zhongnan University of Economics and Law (ZUEL). I am also an external member of Cornell’s Digital Economics and Financial Technology (DEFT) Lab. My research spans empirical asset pricing, digital platforms, tokenomics, and AI in finance. I am particularly interested in how digital assets, blockchain technologies, and emerging AI tools are reshaping modern financial markets.
+Hello! I am Fan Feng, a lecturer at the School of Economics and Management, Beihang University. I hold a Ph.D. in Accounting from Nanyang Technological University and am a CFA charterholder.
 
-I earned my Ph.D. in Economics from Tsinghua University and a B.Econ. in Financial Engineering from Wuhan University. My recent work studies how crypto assets price risk, how network effects shape platform outcomes, and how AI methods can uncover new return predictors in financial markets.
+My research lies at the intersection of empirical accounting, corporate finance, capital markets, climate finance, and artificial intelligence. I am particularly interested in how information, incentives, institutional investors, and emerging technologies shape firm behavior and market outcomes.
 
-If you are interested in collaborations on tokenomics, AI in finance, or platform regulation, please feel free to reach out.
+I received my B.Econ. in Financial Engineering and a second bachelor’s degree in Applied Mathematics from Beihang University, an M.A. in Communication Studies from Nanyang Technological University, and a Ph.D. in Accounting from Nanyang Technological University.
+
+If you are interested in collaborations on empirical accounting and corporate finance research, particularly projects related to sustainability issues and AI in accounting and finance, please feel free to reach out.
