@@ -66,7 +66,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/weiyi_zhao_cv.pdf", "_blank");
+          window.open("/assets/pdf/fan_feng_cv.pdf", "_blank");
         },
       },{
         id: 'social-email',
