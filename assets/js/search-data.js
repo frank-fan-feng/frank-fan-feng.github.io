@@ -38,8 +38,8 @@ ninja.data = [{
             },},{id: "news-fintech-platforms-and-asymmetric-network-effects-theory-and-evidence-from-marketplace-lending-received-best-paper-sole-first-prize-at-the-2024-china-tech-fin-research-conference-shanghai",
           title: '“FinTech Platforms and Asymmetric Network Effects: Theory and Evidence from Marketplace Lending” received...',
           description: "",
-          section: "News",},{id: "news-new-nsfc-grant-on-platform-token-risk-spillovers",
-          title: 'New NSFC Grant on Platform Token Risk Spillovers',
+          section: "News",},{id: "news-beijing-municipal-social-science-foundation-grant-on-generative-ai-and-supply-chain-resilience",
+          title: 'Beijing Municipal Social Science Foundation Grant on generative AI and supply chain resilience...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2024-12-01-nsfc-grant/";
