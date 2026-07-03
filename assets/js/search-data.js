@@ -43,7 +43,7 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-12-03-nsfc-grant/";
-            },},{id: "news-my-first-authored-paper-climate-change-exposure-and-bankruptcy-risk-published-in-british-journal-of-management-abs4-abdc-a-jcr-q1-ssci-was-recognized-as-an-esi-highly-cited-paper-in-march-2026",
+            },},{id: "news-my-first-authored-paper-climate-change-exposure-and-bankruptcy-risk-published-in-british-journal-of-management-abs-ajg-4-abdc-a-jcr-q1-ssci-was-recognized-as-an-esi-highly-cited-paper-in-march-2026",
           title: 'My first-authored paper, “Climate change exposure and bankruptcy risk,” published in British Journal...',
           description: "",
           section: "News",},{id: "projects-cornell-deft-lab-collaborations",
