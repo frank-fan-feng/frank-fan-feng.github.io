@@ -172,53 +172,53 @@
   ],
   "conference presentations": [
     {
+      "year": "2026",
+      "events": [
+        { "name": "Annual RCF-ECGI Corporate Finance and Governance Conference", "details": "Madrid, Spain" },
+        { "name": "British Academy of Management (BAM) Conference", "details": "London, UK" }
+      ]
+    },
+    {
       "year": "2025",
       "events": [
-        { "name": "Econometric Society World Congress", "details": "Seoul, South Korea" },
-        { "name": "FMA Annual Meeting", "details": "Vancouver, Canada" }
+        { "name": "Annual Conference of the Jiaotong University Accounting Collaboration Forum", "details": "Beijing, China" },
+        { "name": "Chinese Finance Annual Meeting", "details": "Nanjing, China" },
+        { "name": "Conference on Financial Systems Engineering and Risk Management", "details": "Wuhu, China" },
+        { "name": "International Conference on Accounting and Finance in Emerging Markets", "details": "Nanjing, China (presented by coauthor)" },
+        { "name": "International Academic Conference on Digital Finance", "details": "Nanchang, China (presented by coauthor)" }
       ]
     },
     {
       "year": "2024",
       "events": [
-        { "name": "Cryptocurrency Research Conference", "details": "Dubai, UAE (virtual)" },
-        { "name": "19th Conference on Asia-Pacific Financial Markets", "details": "Seoul, South Korea" },
-        { "name": "China Tech-Fin Research Conference", "details": "Shanghai, China" }
+        { "name": "Pacific Asia Conference on Information Systems", "details": "Ho Chi Minh City, Vietnam" }
       ]
-    },
-    {
-      "year": "2023",
-      "events": [{ "name": "18th Conference on Asia-Pacific Financial Markets", "details": "Seoul, South Korea" }]
     },
     {
       "year": "2022",
       "events": [
-        { "name": "FMA Annual Meeting", "details": "Atlanta, GA" },
-        { "name": "ABFER Annual Conference", "details": "Singapore" },
-        { "name": "Asian Finance Association Annual Meeting", "details": "Hongkong, China (virtual)" },
-        { "name": "China Fintech Research Conference", "details": "Beijing, China (virtual)" },
-        { "name": "EFMA Annual Meeting", "details": "Rome, Italy" },
-        { "name": "Summer Institute of Finance", "details": "Shanghai, China" },
-        { "name": "UWA Blockchain and Cryptocurrency Conference", "details": "Perth, Australia (virtual)" }
+        { "name": "China International Conference in Finance", "details": "Online (presented by coauthor)" }
       ]
     },
     {
-      "year": "2021",
+      "year": "2019",
       "events": [
-        { "name": "Tel Aviv University Blockchain Research Institute Conference", "details": "Tel Aviv, Israel" },
-        { "name": "Institutional Economics Annual Meeting", "details": "Beijing, China" },
-        { "name": "China Urban Economist Forum", "details": "Beijing, China" }
+        { "name": "Summer Research Boot Camp, PBC School of Finance", "details": "Beijing, China" }
       ]
     },
     {
-      "year": "2020",
-      "events": [{ "name": "Tsinghua University China Economic Seminar", "details": "Beijing, China" }]
+      "year": "2018",
+      "events": [
+        { "name": "Chinese Accounting Rookie Camp", "details": "Chengdu, China" },
+        { "name": "AFAANZ Rookie Camp", "details": "Sydney, Australia" },
+        { "name": "EAA Talent Workshop", "details": "Madrid, Spain" }
+      ]
     }
   ],
   "research grants": [
     {
     "role": "PI",
-    "agency": "Beihang University School of Economics and Management",
+    "agency": "Beihang University",
     "grant": null,
     "title": "Generative AI and Corporate Information Disclosure Quality: Mechanisms, Economic Consequences, and Governance Responses",
     "years": "2026"
