@@ -7,17 +7,21 @@ nav: true
 nav_order: 6
 ---
 
-### Zhongnan University of Economics and Law
+### Beihang University - School of Economics and Management
 
-- **Machine Learning and Quantitative Investment (Fall 2025)**
-- **Quantitative Investment (Spring 2026)**
-- **Empirical Asset Pricing (Spring 2026)**
+- **Big Data and Intelligent Finance (Undergraduate)**
+- **Corporate Governance (Undergraduate)**
+- **Research Seminar (Undergraduate)**
+- **Python for Data Analysis (Graduate)**
+- **Financial Analytics and Decision Making Using Big Data (Graduate)**
+- **Corporate Finance (Graduate)**
+- **Investment Fund Management (Graduate)**
+- **Accounting Theory and Empirical Research (Graduate)**
 
-### Tsinghua University – School of Social Sciences
+### Shanghai Lixin University of Accounting and Finance – School of Accountancy
 
-- **Intermediate Macroeconomics (Spring 2022 & 2023)**
+- **Fundamentals of Financial Accounting (Undergraduate)**
 
-### Tsinghua University – School of Economics and Management
+### Nanyang Technological University – Nanyang Business School
 
-- **Advanced Microeconomics II (Spring 2020 & 2021)**
-- **Law and Economics (Fall 2021)**
+- **Accounting: A User Perspective (Undergraduate)**
