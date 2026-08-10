@@ -30,15 +30,27 @@
       "studyType": "Ph.D. in Accounting",
       "startDate": "2014-07",
       "endDate": "2019-04",
-      "summary": "Nanyang Business School."
+    },
+    {
+      "institution": "Nanyang Technological University",
+      "location": "Singapore",
+      "studyType": "M.Comm. in Communication Studies",
+      "startDate": "2012-08",
+      "endDate": "2014-11",
     },
     {
       "institution": "Beihang University",
       "location": "Beijing, China",
-      "studyType": "Bachelor of Economics in Financial Engineering",
+      "studyType": "B.Ec. in Finance Science (Concentration: Financial Engineering)",
       "startDate": "2008-09",
       "endDate": "2012-06",
-      "summary": "School of Economics and Management."
+    },
+    {
+      "institution": "Beihang University",
+      "location": "Beijing, China",
+      "studyType": "B.Sc. in Applied Mathematics (Minor)",
+      "startDate": "2008-09",
+      "endDate": "2012-06",
     }
   ],
   "working papers": [
