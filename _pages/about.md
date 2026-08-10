@@ -2,7 +2,7 @@
 layout: about
 title: Fan Feng
 permalink: /
-subtitle: Empirical Accounting and Corporate Finance · Capital Markets and Financial Intermediaries · Sustainability and Climate Finance · AI Applications in Accounting and Finance
+subtitle: Empirical Accounting and Corporate Finance · Capital Market and Financial Intermediaries · Sustainability and Climate Finance · AI Applications in Accounting and Finance
 
 profile:
   align: right
@@ -27,7 +27,7 @@ latest_posts:
 
 Hello! I am Fan Feng, an Assistant Professor at the School of Economics and Management, Beihang University. I hold a Ph.D. in Accounting from Nanyang Technological University and am a CFA charterholder.
 
-My research lies at the intersection of empirical accounting, corporate finance, capital markets, sustainability, and artificial intelligence. I am particularly interested in how information, incentives, institutional investors, and emerging technologies shape corporate decisions and capital market outcomes. My recent studies examine topics such as climate-related risks, supply chain resilience, institutional investor networks, corporate innovation, earnings management, and AI-enabled methods in accounting and finance.
+My research lies at the intersection of capital market, financial management, accounting information, climate finance, and artificial intelligence. I am particularly interested in how information, incentives, institutional investors, and emerging technologies shape corporate decisions and capital market outcomes. My recent studies examine topics such as climate-related risks, supply chain resilience, institutional investor networks, corporate innovation, earnings management, and AI-enabled methods in accounting and finance.
 
 I received my B.Econ. in Financial Engineering and a second bachelor’s degree in Applied Mathematics from Beihang University, an M.A. in Communication Studies from Nanyang Technological University, and a Ph.D. in Accounting from Nanyang Technological University.
 
