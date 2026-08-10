@@ -43,43 +43,85 @@
   ],
   "working papers": [
     {
-      "name": "FinTech Platforms and Asymmetric Network Effects: Theory and Evidence from Marketplace Lending",
-      "publisher": "NBER Working Paper",
-      "releaseDate": "2024",
-      "summary": "With Lin William Cong, Ke Tang, and Danxia Xie;<br>Best Paper Award at the 2024 China Tech-Fin Research Conference, First Prize."
+      "name": "Model adaptation for predictive analytics: Decisions on update timing and data relevance trade-offs",
+      "publisher": "Working paper",
+      "releaseDate": "2026",
+      "summary": "Jiaxu Peng, Jungpil Hahn, Dandan Qiao, and Fan Feng*;<br>Revise and resubmit at Information Systems Research."
     },
     {
-      "name": "How Regulatory Sandboxes Shape FinTech Financing: Disentangling Attention and Information Channels",
+      "name": "Capital market liberalization and managerial question dodging: Evidence from the Shanghai/Shenzhen-Hong Kong Stock Connect",
+      "publisher": "Working paper",
+      "releaseDate": "2026",
+      "summary": "Fan Feng and Mengshu Hao*;<br>Revise and resubmit at Journal of Contemporary Accounting & Economics."
+    },
+    {
+      "name": "Does culture bind or blind? The effect of auditor-client relationship on audit quality",
+      "publisher": "Working paper",
+      "releaseDate": "2026",
+      "summary": "Fan Feng, Jiaxu Peng*, and Xi Xiong."
+    },
+    {
+      "name": "Financial statement benchmarkability and price discovery: Evidence from cross-firm stock return predictability",
+      "publisher": "Working paper",
+      "releaseDate": "2026",
+      "summary": "Fan Feng, Zhe Li, Jiaxu Peng*, and Tingye Zhu."
+    },
+    {
+      "name": "Greener deals, noisier ratings",
+      "publisher": "Working paper",
+      "releaseDate": "2026",
+      "summary": "Yubo Wang, Fan Feng*, and Jiaxu Peng."
+    },
+    {
+      "name": "Managing transition climate risk: Evidence from green mergers and acquisitions",
       "publisher": "Working paper",
       "releaseDate": "2025",
-      "summary": "With Xuemeng Sun, Qingquan Zhang, and Danxia Xie."
+      "summary": "Lu Deng, Fan Feng*, and Jiaxu Peng."
+    },
+    {
+      "name": "A semi-supervised learning approach to handling missing data in predictive analytics",
+      "publisher": "Working paper",
+      "releaseDate": "2024",
+      "summary": "Jiaxu Peng* and Fan Feng;<br>Best Paper in Track Award at the 2024 Pacific Asia Conference on Information Systems (Ho Chi Minh City, Vietnam)."
+    },
+    {
+      "name": "The value of AI-inferred facial personality traits: Evidence from Chinese financial analysts",
+      "publisher": "Working paper",
+      "releaseDate": "2024",
+      "summary": "Jiaxu Peng* and Fan Feng."
     }
   ],
   "publications": [
     {
-      "name": "Crypto Value, Factor Pricing, and Market Segmentation",
-      "publisher": "Management Science (forthcoming)",
+      "name": "Informal power, formal impact: The influence of institutional investor cliques on corporate innovation",
+      "publisher": "China Journal of Accounting Research (ABS/AJG 2, ABDC A, JCR Q1, ESCI)",
       "releaseDate": "2026",
-      "summary": "With Lin William Cong, George Andrew Karolyi, and Ke Tang;<br>Best Paper Award at the 2023 National Doctoral Student Forum, First Prize; <br>Best Paper Award at the 2022 EFMA Annual Meeting; <br>Best Paper Award at the 2021 Tel Aviv University Blockchain Research Institute Conference."
+      "summary": "Lu Deng, Fan Feng*, Jiaxu Peng, and Zhuoxiu Xia."
     },
     {
-      "name": "Property Rights System of Land, Housing Price Structure and Wealth Inequality",
-      "publisher": "China Journal of Economics (in Chinese)",
+      "name": "Corporate culture and supply chain resilience",
+      "publisher": "China Journal of Accounting Research (ABS/AJG 2, ABDC A, JCR Q1, ESCI)",
+      "releaseDate": "2026",
+      "summary": "Fan Feng, Zhiyu Luo, and Jiaxu Peng*."
+    },
+    {
+      "name": "Equity incentives under dual-class equity agency conflicts: A perspective of the relational contracts",
+      "publisher": "Accounting and Economics Research (in Chinese) (CSSCI)",
       "releaseDate": "2025",
-      "summary": "With Danxia Xie, Buyuan Yang, and Qingquan Zhang."
+      "summary": "Hualin Wan, Fan Feng*, and Shan Zhao."
     },
     {
-      "name": "Economic Analysis of Public Health Reform: Mechanisms and Policy Design for Optimal Resource Allocation between Prevention and Treatment",
-      "publisher": "China Journal of Economics (in Chinese)",
+      "name": "Climate change exposure and bankruptcy risk",
+      "publisher": "British Journal of Management (ABS/AJG 4, ABDC A*, JCR Q1, SSCI)",
+      "releaseDate": "2024",
+      "summary": "Fan Feng, Liyan Han, Jiayu Jin*, and Youwei Li;<br>ESI Highly Cited Paper as of March 2026."
+    },
+    {
+      "name": "Mutual funds’ capital gains lock-in and earnings management",
+      "publisher": "Journal of Corporate Finance (ABS/AJG 4, ABDC A*, JCR Q1, SSCI)",
       "releaseDate": "2023",
-      "summary": "With Danxia Xie, Peilin Liu, and Buyuan Yang."
+      "summary": "Stephen G. Dimmock, Fan Feng*, and Huai Zhang."
     },
-    {
-      "name": "Platform Macro Risks and Platform Antitrust",
-      "publisher": "Financial Review (in Chinese)",
-      "releaseDate": "2022",
-      "summary": "With Danxia Xie, Yao Li, and Liyang Yang."
-    }
   ],
   "awards": [
     {
@@ -121,13 +163,13 @@
     {
       "name": "Research Interests",
       "level": "",
-      "keywords": ["Empirical Asset Pricing", "FinTech", "Tokenomics", "AI and Asset Pricing"]
+      "keywords": ["Capital Market", "Financial Management", "Accounting Information", "Climate Finance", "Artificial Intelligence"]
     }
   ],
   "interests": [
     {
       "name": "FinTech Research Community",
-      "keywords": ["Empirical Asset Pricing", "Digital Platforms", "Blockchain Ecosystems"]
+      "keywords": ["Capital Market", "Financial Management", "Accounting Information", "Climate Finance", "Artificial Intelligence"]
     }
   ],
   "conference presentations": [
