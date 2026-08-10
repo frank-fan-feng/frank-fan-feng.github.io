@@ -129,46 +129,46 @@
     "date": "2026",
     "awarder": "School of Economics and Management, Beihang University",
     "summary": "Preliminary Round"
-  },
-  {
+    },
+    {
     "title": "Best Paper in Track, PACIS 2024",
     "date": "2024",
     "awarder": "Pacific Asia Conference on Information Systems (PACIS)",
     "summary": "\"A Semi-Supervised Learning Approach to Handling Missing Data in Predictive Analytics\""
-  },
-  {
+    },
+    {
     "title": "Beijing High-Quality Undergraduate Course",
     "date": "2024",
     "awarder": "Beijing Municipal Education Commission",
     "summary": "Macroeconomics; Key Contributor (ranked 3rd)"
-  },
-  {
+    },
+    {
     "title": "Outstanding Class Advisor",
     "date": "2023",
     "awarder": "Beihang College, Beihang University",
     "summary": "2022–2023 Academic Year"
-  },
-  {
+    },
+    {
     "title": "Second Prize, Outstanding Research Achievement Award in Industry and Information Technology",
     "date": "2023",
     "awarder": "2022 Outstanding Research Achievement Awards in Industry and Information Technology",
     "summary": "Research project on industrial culture and practice education; Key Contributor (ranked 2nd)"
-  },
-  {
+    },
+    {
     "title": "Shanghai Young University Teachers Training and Funding Program",
     "date": "2020",
     "awarder": "Shanghai Municipal Education Commission"
-  },
-  {
+    },
+    {
     "title": "Ph.D. Research Scholarship",
     "date": "2014–2018",
     "awarder": "Nanyang Technological University"
-  },
-  {
+    },
+    {
     "title": "Master’s Research Scholarship",
     "date": "2012–2014",
     "awarder": "Nanyang Technological University"
-  }
+    }
   ],
   "skills": [
     {
@@ -230,39 +230,46 @@
   ],
   "research grants": [
     {
-      "role": "PI",
-      "agency": "NSFC",
-      "grant": "72503258",
-      "title": "Pricing Mechanism and Risk Spillover Effects of Platform Tokens",
-      "years": "2026-2028"
+    "role": "PI",
+    "agency": "Beihang University School of Economics and Management",
+    "grant": null,
+    "title": "Generative AI and Corporate Information Disclosure Quality: Mechanisms, Economic Consequences, and Governance Responses",
+    "years": "2026"
     },
     {
-      "role": "PI",
-      "agency": "China Postdoctoral Science Foundation",
-      "grant": "2025M773717",
-      "title": "Digital Asset Pricing with Blockchain Features",
-      "years": "2025-2027"
+    "role": "PI",
+    "agency": "Beijing Social Science Foundation",
+    "grant": 25BJ03026,
+    "title": "Generative AI and the Enhancement of Supply Chain Resilience among Beijing Enterprises",
+    "years": "2025-2028"
     },
     {
-      "role": "Co-I",
-      "agency": "NSFC",
-      "grant": "72373079",
-      "title": "Economic Growth and Population Dynamics in the Digital Age",
-      "years": "2024-2027"
+    "role": "PI",
+    "agency": "Beihang University",
+    "grant": null,
+    "title": "The Governance Effects of Big Data on Corporate Green Talk and Action: Evidence from Institutional Investors in China",
+    "years": "2024"
     },
     {
-      "role": "Co-I",
-      "agency": "NSFC",
-      "grant": "71973076",
-      "title": "Digital Platforms, Social Welfare, and Financial Stability",
-      "years": "2020-2023"
+    "role": "PI",
+    "agency": "Beihang University",
+    "grant": null,
+    "title": "The Green Governance Effects of Foreign Institutional Investors",
+    "years": "2023-2025"
     },
     {
-      "role": "Co-I",
-      "agency": "Tsinghua Independent Research Project",
-      "grant": null,
-      "title": "Social Effects of Epidemic Prevention and Control",
-      "years": "2022-2023"
+    "role": "Co-I",
+    "agency": "National Natural Science Foundation of China",
+    "grant": 72372006,
+    "title": "Governance Effects and Mechanisms of Auditors' Professional Networks: A Social Network Perspective",
+    "years": "2024-2027"
+    },
+    {
+    "role": "Co-I",
+    "agency": "Beijing Natural Science Foundation",
+    "grant": null,
+    "title": "Catering Behavior in Corporate Information Disclosure during Digital Transformation",
+    "years": "2024-2026"
     }
   ],
   "languages": [
