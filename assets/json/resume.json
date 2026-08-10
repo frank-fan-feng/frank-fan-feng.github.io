@@ -226,7 +226,7 @@
     {
     "role": "PI",
     "agency": "Beijing Social Science Foundation",
-    "grant": 25BJ03026,
+    "grant": "25BJ03026",
     "title": "Generative AI and the Enhancement of Supply Chain Resilience among Beijing Enterprises",
     "years": "2025-2028"
     },
@@ -247,7 +247,7 @@
     {
     "role": "Co-I",
     "agency": "National Natural Science Foundation of China",
-    "grant": 72372006,
+    "grant": "72372006",
     "title": "Governance Effects and Mechanisms of Auditors' Professional Networks: A Social Network Perspective",
     "years": "2024-2027"
     },
