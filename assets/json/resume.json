@@ -125,39 +125,50 @@
   ],
   "awards": [
     {
-      "title": "Best Paper Award, China Tech-Fin Research Conference",
-      "date": "2024",
-      "awarder": "Inaugural China Tech-Fin Research Conference (Shanghai)",
-      "summary": "Sole First Prize"
-    },
-    {
-      "title": "Best Paper Award, National Doctoral Student Academic Forum in Finance",
-      "date": "2023",
-      "awarder": "7th National Doctoral Student Academic Forum in Finance",
-      "summary": "Sole First Prize"
-    },
-    {
-      "title": "EFMA-WRDS Conference Best Paper Award",
-      "date": "2022",
-      "awarder": "European Financial Management Association Annual Meeting"
-    },
-    {
-      "title": "Best Paper Award, Tel Aviv University Blockchain Research Institute Conference",
-      "date": "2021",
-      "awarder": "Tel Aviv University Coller School of Management"
-    },
-    {
-      "title": "Comprehensive and LIMU Scholarships",
-      "date": "2022",
-      "awarder": "Tsinghua University",
-      "summary": "Multi-year scholarships (2020-2022)."
-    },
-    {
-      "title": "Comprehensive and JINGLIN Scholarships",
-      "date": "2017",
-      "awarder": "Wuhan University",
-      "summary": "Undergraduate merit scholarships (2016-2017)."
-    }
+    "title": "First Prize, Beihang University Teaching Competition",
+    "date": "2026",
+    "awarder": "School of Economics and Management, Beihang University",
+    "summary": "Preliminary Round"
+  },
+  {
+    "title": "Best Paper in Track, PACIS 2024",
+    "date": "2024",
+    "awarder": "Pacific Asia Conference on Information Systems (PACIS)",
+    "summary": "\"A Semi-Supervised Learning Approach to Handling Missing Data in Predictive Analytics\""
+  },
+  {
+    "title": "Beijing High-Quality Undergraduate Course",
+    "date": "2024",
+    "awarder": "Beijing Municipal Education Commission",
+    "summary": "Macroeconomics; Key Contributor (ranked 3rd)"
+  },
+  {
+    "title": "Outstanding Class Advisor",
+    "date": "2023",
+    "awarder": "Beihang College, Beihang University",
+    "summary": "2022–2023 Academic Year"
+  },
+  {
+    "title": "Second Prize, Outstanding Research Achievement Award in Industry and Information Technology",
+    "date": "2023",
+    "awarder": "2022 Outstanding Research Achievement Awards in Industry and Information Technology",
+    "summary": "Research project on industrial culture and practice education; Key Contributor (ranked 2nd)"
+  },
+  {
+    "title": "Shanghai Young University Teachers Training and Funding Program",
+    "date": "2020",
+    "awarder": "Shanghai Municipal Education Commission"
+  },
+  {
+    "title": "Ph.D. Research Scholarship",
+    "date": "2014–2018",
+    "awarder": "Nanyang Technological University"
+  },
+  {
+    "title": "Master’s Research Scholarship",
+    "date": "2012–2014",
+    "awarder": "Nanyang Technological University"
+  }
   ],
   "skills": [
     {
