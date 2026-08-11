@@ -46,12 +46,7 @@ ninja.data = [{
             },},{id: "news-my-first-authored-paper-climate-change-exposure-and-bankruptcy-risk-published-in-british-journal-of-management-abs-ajg-4-abdc-a-jcr-q1-ssci-was-recognized-as-an-esi-highly-cited-paper-in-march-2026",
           title: 'My first-authored paper, “Climate change exposure and bankruptcy risk,” published in British Journal...',
           description: "",
-          section: "News",},{id: "projects-cornell-deft-lab-collaborations",
-          title: 'Cornell DEFT Lab Collaborations',
-          description: "Joint research with Cornell&#39;s Digital Economy and Financial Technology Lab on cross-border financing and marketplace design.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/deft-lab/";
-            },},{
+          section: "News",},{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
