@@ -56,11 +56,6 @@ ninja.data = [{
           description: "Graduate course launching at ZUEL to connect modern ML methods with institutional investing.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ml-quant-course/";
-            },},{id: "projects-tokenomics-and-risk-spillovers",
-          title: 'Tokenomics and Risk Spillovers',
-          description: "National Natural Science Foundation project investigating how platform tokens transmit risk into traditional markets.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/tokenomics-risk/";
             },},{
         id: 'social-cv',
         title: 'CV',
