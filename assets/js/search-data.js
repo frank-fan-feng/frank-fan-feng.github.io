@@ -30,12 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-semi-supervised-learning-approach-to-handling-missing-data-in-predictive-analytics-received-best-paper-in-track-award-at-the-2024-pacific-asia-conference-on-information-systems-ho-chi-minh-city-vietnam",
+        },{id: "news-a-semi-supervised-learning-approach-to-handling-missing-data-in-predictive-analytics-received-best-paper-in-track-award-at-the-2024-pacific-asia-conference-on-information-systems-ho-chi-minh-city-vietnam",
           title: '“A semi-supervised learning approach to handling missing data in predictive analytics” received Best...',
           description: "",
           section: "News",},{id: "news-beijing-municipal-social-science-foundation-grant-on-generative-ai-and-supply-chain-resilience",
