@@ -51,11 +51,6 @@ ninja.data = [{
           description: "Joint research with Cornell&#39;s Digital Economy and Financial Technology Lab on cross-border financing and marketplace design.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/deft-lab/";
-            },},{id: "projects-machine-learning-amp-quantitative-investment",
-          title: 'Machine Learning &amp;amp; Quantitative Investment',
-          description: "Graduate course launching at ZUEL to connect modern ML methods with institutional investing.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/ml-quant-course/";
             },},{
         id: 'social-cv',
         title: 'CV',
