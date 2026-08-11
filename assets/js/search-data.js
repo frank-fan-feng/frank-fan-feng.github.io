@@ -42,7 +42,7 @@ ninja.data = [{
           title: 'Beijing Municipal Social Science Foundation Grant on generative AI and supply chain resilience...',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/2025-12-03-nsfc-grant/";
+              window.location.href = "/news/2025-12-03-2025-12-03-beijing-social-science-foundation-grant-grant/";
             },},{id: "news-my-first-authored-paper-climate-change-exposure-and-bankruptcy-risk-published-in-british-journal-of-management-abs-ajg-4-abdc-a-jcr-q1-ssci-was-recognized-as-an-esi-highly-cited-paper-in-march-2026",
           title: 'My first-authored paper, “Climate change exposure and bankruptcy risk,” published in British Journal...',
           description: "",
