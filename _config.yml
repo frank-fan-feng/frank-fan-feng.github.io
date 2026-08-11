@@ -11,7 +11,7 @@ contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Assistant Professor focusing on capital market, corporate finance, financial management, accounting information, sustainable business, and artificial intelligence.
 footer_text:
-keywords: capital market, financial accounting, corporate finance, empirical asset pricing, climate finance, and artificial intelligence # add your own keywords or leave empty
+keywords: capital market, corporate finance, financial management, accounting information, sustainable business, and artificial intelligence # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
