@@ -1,4 +1,4 @@
-<img width="468" height="21" alt="image" src="https://github.com/user-attachments/assets/f380b19c-2d48-44fc-b926-e3e8c8fc2597" />---
+---
 layout: about
 title: Fan Feng
 permalink: /
