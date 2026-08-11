@@ -25,7 +25,7 @@ latest_posts:
   limit: 3
 ---
 
-Hello! I am Fan Feng（冯帆）, an assistant professor at the School of Economics and Management, Beihang University. I hold a Ph.D. in Accounting from Nanyang Technological University and am a CFA charterholder.
+Hello! I am Fan Feng, an assistant professor at the School of Economics and Management, Beihang University. I hold a Ph.D. in Accounting from Nanyang Technological University and am a CFA charterholder.
 
 My research lies at the intersection of capital market, corporate finance, financial management, accounting information, sustainable business, and artificial intelligence. I am particularly interested in how information, incentives, institutional investors, and emerging technologies shape corporate decisions and capital market outcomes. My recent studies examine topics such as climate-related risks, supply chain resilience, institutional investor networks, corporate innovation, earnings management, and AI-enabled methods in accounting and finance.
 
