@@ -17,12 +17,12 @@ social: true
 announcements:
   enabled: true
   scrollable: true
-  limit: 3
+  limit: 5
 
 latest_posts:
   enabled: false
   scrollable: false
-  limit: 3
+  limit: 5
 ---
 
 Hello! I am Fan Feng, an assistant professor at the School of Economics and Management, Beihang University. I hold a Ph.D. in Accounting from Nanyang Technological University and am a CFA charterholder.
