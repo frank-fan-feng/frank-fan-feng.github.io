@@ -30,10 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "news-a-semi-supervised-learning-approach-to-handling-missing-data-in-predictive-analytics-received-the-best-paper-in-track-award-at-the-2024-pacific-asia-conference-on-information-systems-ho-chi-minh-city-vietnam",
-          title: '“A semi-supervised learning approach to handling missing data in predictive analytics” received the...',
+        },{id: "news-best-paper-in-track-award-at-the-pacific-asia-conference-on-information-systems-2024",
+          title: 'Best Paper in Track Award at the Pacific Asia Conference on Information Systems...',
           description: "",
-          section: "News",},{id: "news-beijing-municipal-social-science-foundation-grant-on-generative-ai-and-supply-chain-resilience",
+          section: "News",handler: () => {
+              window.location.href = "/news/2024-07-01-best-paper/";
+            },},{id: "news-beijing-municipal-social-science-foundation-grant-on-generative-ai-and-supply-chain-resilience",
           title: 'Beijing Municipal Social Science Foundation Grant on generative AI and supply chain resilience...',
           description: "",
           section: "News",handler: () => {
