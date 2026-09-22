@@ -8,4 +8,4 @@ related_posts: false
 
 My proposal “Generative AI and the enhancement of supply chain resilience among Beijing enterprises” received funding from the Beijing Municipal Social Science Foundation (Grant Number: 25BJ03026).
 
-![Beijing Municipal Social Science Foundation Grant Certificate](/assets/img/certificates/beijing-social-science-foundation-2025.jpg)
+![Beijing Municipal Social Science Foundation Grant Certificate](/assets/img/certificates/beijing-social-science-foundation-2025.png)
