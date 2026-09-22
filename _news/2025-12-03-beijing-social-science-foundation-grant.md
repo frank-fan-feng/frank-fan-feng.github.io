@@ -12,6 +12,6 @@ My proposal “Generative AI and the enhancement of supply chain resilience amon
   <img
     src="/assets/img/certificates/beijing-social-science-foundation-2025.png"
     alt="Beijing Municipal Social Science Foundation Grant Certificate"
-    style="width: 85%; max-width: 900px; height: auto;"
+    style="width: 100%; max-width: 900px; height: auto;"
   >
 </div>
