@@ -40,10 +40,12 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-12-03-beijing-social-science-foundation-grant/";
-            },},{id: "news-my-first-authored-paper-climate-change-exposure-and-bankruptcy-risk-published-in-british-journal-of-management-abs-ajg-4-abdc-a-jcr-q1-ssci-was-recognized-as-an-esi-highly-cited-paper-in-march-2026",
-          title: 'My first-authored paper, “Climate change exposure and bankruptcy risk,” published in British Journal...',
+            },},{id: "news-esi-highly-cited-paper-recognition",
+          title: 'ESI Highly Cited Paper Recognition',
           description: "",
-          section: "News",},{id: "news-best-paper-in-track-award-at-the-british-academy-of-management-2026-conference",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-03-01-esi-highly-cited-paper/";
+            },},{id: "news-best-paper-in-track-award-at-the-british-academy-of-management-2026-conference",
           title: 'Best Paper in Track Award at the British Academy of Management 2026 Conference...',
           description: "",
           section: "News",handler: () => {
