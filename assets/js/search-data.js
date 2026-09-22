@@ -41,10 +41,12 @@ ninja.data = [{
             },},{id: "news-my-first-authored-paper-climate-change-exposure-and-bankruptcy-risk-published-in-british-journal-of-management-abs-ajg-4-abdc-a-jcr-q1-ssci-was-recognized-as-an-esi-highly-cited-paper-in-march-2026",
           title: 'My first-authored paper, “Climate change exposure and bankruptcy risk,” published in British Journal...',
           description: "",
-          section: "News",},{id: "news-informal-power-formal-impact-the-influence-of-institutional-investor-cliques-on-corporate-innovation-was-awarded-the-best-full-paper-in-the-innovation-track-at-the-british-academy-of-management-2026-conference-london-united-kingdom",
-          title: '“Informal power, formal impact: The influence of institutional investor cliques on corporate innovation”...',
+          section: "News",},{id: "news-best-paper-in-track-award-at-the-british-academy-of-management-2026-conference",
+          title: 'Best Paper in Track Award at the British Academy of Management 2026 Conference...',
           description: "",
-          section: "News",},{
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-09-08-best-paper/";
+            },},{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
